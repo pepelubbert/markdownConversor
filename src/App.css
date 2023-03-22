@@ -1,0 +1,17 @@
+.App {
+  background-image: linear-gradient(
+    45deg,
+    hsl(0, 100%, 0%),
+    hsl(240, 20%, 20%)
+    );
+    color: hsl(120, 93%, 65%);
+    font-family: monospace, sans-serif;
+}
+
+#editor{
+  transition: height 0.5s ease;
+}
+
+#sizeButton{
+  text-align: right;
+}
